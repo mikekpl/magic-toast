@@ -12,7 +12,7 @@ Gradle
 ```
 
 ```java
-	compile 'com.github.ekimual:magic-toast:0.0.1'
+	compile 'com.github.ekimual:magic-toast:0.0.2'
 ```
 
 Sample Usage
