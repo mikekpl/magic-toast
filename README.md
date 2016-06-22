@@ -23,7 +23,7 @@ Sample Usage
 	MagicToast.showError(getApplicationContext(), "HELLO WORLD");
 	MagicToast.showInfo(getApplicationContext(), "HELLO WORLD");
 	MagicToast.showWarning(getApplicationContext(), "HELLO WORLD");
-	MagicToast.showDim(getApplicationContext(), "HELLO WORLD");]
+	MagicToast.showDim(getApplicationContext(), "HELLO WORLD");
 
 	//Shows Toast for 2 seconds
 	MagicToast.showSuccess(getApplicationContext(), "HELLO WORLD", 2);
