@@ -3,6 +3,8 @@ Magic Toast
 
 A Simple and Colorful alternative to showing Toasts.
 
+![screenshot_2016-06-24-11-44-56](https://cloud.githubusercontent.com/assets/16832215/16327415/3c6c6b6e-3a01-11e6-98ca-3f0ef26130d5.jpg)
+
 Gradle
 
 ```java
