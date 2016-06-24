@@ -31,4 +31,4 @@ Sample Usage
 	MagicToast.showSuccess(getApplicationContext(), "HELLO WORLD", 2);
 ```
 
-![Android Arsenal](https://android-arsenal.com/details/1/3765)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-magic--toast-green.svg?style=true)](https://android-arsenal.com/details/1/3765)
